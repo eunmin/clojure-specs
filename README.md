@@ -1,5 +1,7 @@
 # Specs
 
+Programming Clojure(https://pragprog.com/book/shcloj3/programming-clojure-third-edition) 5장을 정리했습니다.
+
 - Clojure는 다이나믹 타입 언어라서 기본 타입으로로 데이터를 표현한다.
 - 다이나믹 타입의 장점들이 있지만 코드가 명확하지 않다는 단점도 있다.
 - 다음 코드 중 clojure 코드는 `ingredient` 인자의 타입이 map이기 때문에 자바 코드에 비해 명확하지 않다.
